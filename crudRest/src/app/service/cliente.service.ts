@@ -30,7 +30,7 @@ export class ClienteService {
   }
 
   //DELETE
-  remover(id: number): Observable<any>{
+  excluir(id: number): Observable<any>{
 
     return this.http.delete(`http://localhost:3000/cliente/${id}`);
   }

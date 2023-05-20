@@ -1,11 +1,5 @@
 {
-  "cliente": [
-    {
-      "nome": "Rodrigo",
-      "cpf": "23044429852",
-      "Id": 2
-    }
-  ],
+  "cliente": [],
   "produto": [
     {
       "nome": "Iphone",
@@ -18,6 +12,12 @@
       "code": "12",
       "type": "Smartphone",
       "id": 3
+    },
+    {
+      "nome": "Iphone",
+      "code": "12",
+      "type": "Smartphone",
+      "id": 4
     }
   ]
 }
